@@ -1,0 +1,5 @@
+#!/bin/bash
+#
+gcc -o chatclient chatclient.c
+g++ chatserve.cpp -o chatserver
+
